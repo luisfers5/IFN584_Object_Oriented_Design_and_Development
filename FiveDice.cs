@@ -18,7 +18,7 @@ namespace Week1
             // who winds based on  the following hierarchy of Die Values
 
 
-            Console.Clear();
+            //Console.Clear();
 
             //1. Local variables and cosntants
 

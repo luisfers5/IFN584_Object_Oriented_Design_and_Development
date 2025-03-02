@@ -12,3 +12,4 @@ C:\Users\luisf\OneDrive - Queensland University of Technology\02 Semester 02\IFN
 C:\Users\luisf\OneDrive - Queensland University of Technology\02 Semester 02\IFN584 Object Oriented Design and Dev\SolutionWeek1\Week1\obj\Debug\net8.0\Week1.pdb
 C:\Users\luisf\OneDrive - Queensland University of Technology\02 Semester 02\IFN584 Object Oriented Design and Dev\SolutionWeek1\Week1\obj\Debug\net8.0\Week1.genruntimeconfig.cache
 C:\Users\luisf\OneDrive - Queensland University of Technology\02 Semester 02\IFN584 Object Oriented Design and Dev\SolutionWeek1\Week1\obj\Debug\net8.0\ref\Week1.dll
+c:\Users\luisf\OneDrive - Queensland University of Technology\02 Semester 02\IFN584 Object Oriented Design and Dev\SolutionWeek1\Week1\obj\Debug\net8.0\Week1.sourcelink.json
